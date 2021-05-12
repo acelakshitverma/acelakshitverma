@@ -4,7 +4,7 @@ I'm Lakshit Verma aka acelakshitverma
 👨 A little about me ...
 
     Security Researcher working in Threat Intelligence focussing on surface/darkweb
-    Independent Security Reseracher |  OSINT Evangelist , Freelance Consultant To Law Enforcemnt Agencies
+    OSINT Evangelist , Freelance Consultant To Law Enforcemnt Agencies
     Founder of We Are Plymouths Foundation
     Cyber Security Mentor at Fairgaze Media Pvt Ltd.
     Technical Author at Pentest MagzineX
