@@ -27,12 +27,6 @@ I'm Lakshit Verma aka acelakshitverma
     Natural Language Processing & Deep Learning Models
     
     
-    🎙 Talks:
-
-   Belkasoft Ameraca 14-15 May 2021
-   
-   PFIC Paraben Conference 15-16 Sept 2021
-
 
 📫 How to reach me:
 
