@@ -8,7 +8,6 @@ I'm Lakshit Verma aka acelakshitverma
     Founder of We Are Plymouths Foundation
     Cyber Security Mentor at Fairgaze Media Pvt Ltd.
     Technical Author at Pentest Magzine
-    Influencer & Curator At The Campus Connect!
     Actively contributing to the cybersecurity community
     
 
