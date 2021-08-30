@@ -3,7 +3,7 @@ I'm Lakshit Verma aka acelakshitverma
 
 👨 A little about me ...
 
-    Security Researcher working in Threat Intelligence focussing on surface/darkweb
+    Cyber Crime Investigator at Centre for Research On Cyber Intelligence & Digital Forensics (CRCIDF)
     OSINT Evangelist , Freelance Consultant To Law Enforcemnt Agencies
     Founder of We Are Plymouths Foundation
     Cyber Security Mentor at Fairgaze Media Pvt Ltd.
